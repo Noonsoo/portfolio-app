@@ -4,9 +4,8 @@ import Experience from "./components/Experience"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Nav from "./components/Nav"
-import Testimonials from "./components/Testimonials"
-import Portfolio from "./components/portfolio"
 import Services from "./components/services"
+import Portfolio from "./components/portfolio"
 
 
 function App() {

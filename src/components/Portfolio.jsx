@@ -40,6 +40,9 @@ const data = [
   },
   
 ]
+
+
+
 function Portfolio() {
   return (
     <section id="portfolio">
@@ -49,7 +52,7 @@ function Portfolio() {
       <div className="container portfolio__container">
         {
           data.map(({id, image,title, github, demo}) => (
-            <article className="portfolio__item">
+            <article className="portfolio__item" key={id}>
             <div className="portfolio__item-image" key={id}>
               <img src={image} alt={title} />
             </div>
