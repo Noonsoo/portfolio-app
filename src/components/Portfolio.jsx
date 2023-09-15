@@ -19,7 +19,7 @@ const data = [
     image: IMG2,
     title: " Netflix Clone",
     github: "https://github.com/Noonsoo/Netflix-clone",
-    demo: "https://netflix-yt-f8e8d.web.app/",
+    demo: " https://netflix-clone-5ch8qa948-noonsoo.vercel.app/",
 
   },
   {
