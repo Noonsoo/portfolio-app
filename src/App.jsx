@@ -4,7 +4,7 @@ import Experience from "./components/Experience"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Nav from "./components/Nav"
-import Services from "./components/services"
+import Services from "./components/Services"
 import Portfolio from "./components/portfolio"
 
 
