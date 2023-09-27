@@ -1,6 +1,6 @@
 import "./contact.css"
 import {MdOutlineEmail} from "react-icons/md"
-import { BsWhatsapp } from "react-icons/bs"
+import { BsLinkedin, BsWhatsapp } from "react-icons/bs"
 import {useRef} from "react"
 import emailjs from "emailjs-com"
 
@@ -47,10 +47,10 @@ function Contact() {
         </article>
 
         <article className="contact__option">
-          <MdOutlineEmail className="contact__option-icon" />
-          <h4>Email</h4>
-          <h5>nwafornonso70@gmail.com</h5>
-          <a href="mailto:nwafornonso70@gmail.com">Send a message</a>
+          <BsLinkedin className="contact__option-icon" />
+          <h4>Linkedin</h4>
+          <h5>Nwafor Chinonso</h5>
+          <a href="https://www.linkedin.com/in/nwafor-emmanuel-59999a1a8">Send a message</a>
         </article>
 
 

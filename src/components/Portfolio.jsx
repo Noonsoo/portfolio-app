@@ -7,20 +7,11 @@ import IMG4 from "../assets/portfolio4.jpeg"
 
 const data = [
   {
-    id: 1,
-    image: IMG1,
-    title: "Amazon Clone",
-    github: "https://github.com/Noonsoo/amazon-clone",
-    demo: "https://amazoon-clone-367aa.web.app/",
-
-  },
-  {
     id: 2,
     image: IMG2,
     title: " Netflix Clone",
     github: "https://github.com/Noonsoo/Netflix-clone",
     demo: " https://netflix-clone-5ch8qa948-noonsoo.vercel.app/",
-
   },
   {
     id: 3,
@@ -28,6 +19,16 @@ const data = [
     title: "An Expense Tracker Application",
     github: "https://github.com/Noonsoo/react-expense-tracker",
     demo: " https://react-expense-tracker-50dab.web.app/",
+
+
+  },
+  {
+    id: 1,
+    image: IMG1,
+    title: "Amazon Clone",
+    github: "https://github.com/Noonsoo/amazon-clone",
+    demo: "https://amazoon-clone-367aa.web.app/",
+
 
   },
   {
