@@ -5,7 +5,7 @@ import {FiInstagram} from "react-icons/fi"
 function Footer() {
   return (
     <footer>
-      <a href="#" className="footer__logo">EMMANUEL</a>
+      <a href="#" className="footer__logo">Nwafor</a>
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -20,7 +20,7 @@ function Footer() {
         <a href="https://github.com/Noonsoo" target="_blank"><BsGithub /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Emmanuel's Website. All rights reserved</small>
+        <small>&copy; Nwafor's Website. All rights reserved</small>
       </div>
     </footer>
   )

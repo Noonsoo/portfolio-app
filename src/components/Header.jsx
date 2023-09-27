@@ -1,6 +1,6 @@
 import "./header.css"
 import CTA from "./CTA"
-import ME from "../assets/me.png"
+import ME from "../assets/img3.png"
 import HeaderSocials from "./HeaderSocials"
 
 function Header() {
@@ -8,7 +8,7 @@ function Header() {
     <header>
     <div className="container header__container">
       <h5>Hello I'm</h5>
-      <h1>Nwafor Emmanuel</h1>
+      <h1>Nwafor Chinonso</h1>
       <h5 className="text-light">
            Frontend Developer
       </h5>

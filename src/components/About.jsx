@@ -1,5 +1,5 @@
 import "./about.css"
-import ME from "../assets/me-about.jpg"
+import ME from "../assets/edited (1)-fotor-bg-remover-2023092665853.png"
 import { FaAward } from "react-icons/fa"
 import { FiUsers } from "react-icons/fi"
 import { VscFolderLibrary} from "react-icons/vsc"
@@ -38,7 +38,7 @@ function About() {
 
       </div>
       <p>
-      Hello! I'm Nwafor Emmanuel, a passionate frontend developer with over 2 years of experience in creating dynamic and user-friendly web applications. I thrive on turning innovative ideas into pixel-perfect, interactive, and responsive websites that leave a lasting impression.
+      Hello! I'm Nwafor Chinonso, a passionate frontend developer with over 2 years of experience in creating dynamic and user-friendly web applications. I thrive on turning innovative ideas into pixel-perfect, interactive, and responsive websites that leave a lasting impression.
       </p>
       <a href="#contact" className="btn btn-primary"> Let's Talk </a>
      </div>
