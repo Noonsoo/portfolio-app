@@ -3,16 +3,38 @@ import IMG1 from "../assets/portfolio1.jpg"
 import IMG2 from "../assets/portfolio2.jpg"
 import IMG3 from "../assets/portfolio3.jpg"
 import IMG4 from "../assets/portfolio4.jpeg"
+import IMG5 from "../assets/images.png"
+import IMG6 from "../assets/preview.png"
+import IMG7 from "../assets/free-fitness-website-templates-1000x750.jpg"
 
 
 const data = [
   {
-    id: 2,
-    image: IMG2,
-    title: " Netflix Clone",
-    github: "https://github.com/Noonsoo/Netflix-clone",
-    demo: " https://netflix-clone-5ch8qa948-noonsoo.vercel.app/",
+    id: 5,
+    image: IMG6,
+    title: "Admin Dashboard UI",
+    github: "https://github.com/Noonsoo/Admin-dashboard-ui",
+    demo: "https://admin-dashboard-ui-henna.vercel.app/",
+
   },
+  {
+    id: 6,
+    image: IMG7,
+    title: "  Golds gym",
+    github: "https://github.com/Noonsoo/react-fitness",
+    demo: "https://jazzy-youtiao-5a7b0f.netlify.app/",
+
+  },
+  {
+    id: 1,
+    image: IMG5,
+    title: "Airbnb Clone",
+    github: "https://github.com/Noonsoo/airbnb-clone",
+    demo: "https://clone-swtg.vercel.app"
+
+
+  },
+ 
   {
     id: 3,
     image: IMG3,
@@ -22,15 +44,7 @@ const data = [
 
 
   },
-  {
-    id: 1,
-    image: IMG1,
-    title: "Amazon Clone",
-    github: "https://github.com/Noonsoo/amazon-clone",
-    demo: "https://amazoon-clone-367aa.web.app/",
-
-
-  },
+ 
   {
     id: 4,
     image: IMG4,
@@ -39,6 +53,16 @@ const data = [
     demo: "https://incandescent-valkyrie-399a45.netlify.app",
 
   },
+  {
+    id: 2,
+    image: IMG2,
+    title: " Netflix Clone",
+    github: "https://github.com/Noonsoo/Netflix-clone",
+    demo: " https://movie-clone-ruby-two.vercel.app/",
+  },
+ 
+ 
+
   
 ]
 
